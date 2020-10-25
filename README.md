@@ -12,10 +12,10 @@
 ```
 ### Далее появится вот такое окно - это значит, что все соответствует минимальным требованиям
 ![](https://cdn1.savepice.ru/uploads/2020/10/25/f8446a5a4ff575767bcaee4cb0fc65cb-full.png)
-ссылка скрина - https://cdn1.savepice.ru/uploads/2020/10/25/f8446a5a4ff575767bcaee4cb0fc65cb-full.png
+
 ### Если все ок, откроется вот это окно, где указываете - название БД, логин, пароль
-![](https://i.ibb.co/Lz2vpqr/Screenshot-13.png)
-ссылка скрина- https://i.ibb.co/Lz2vpqr/Screenshot-13.png
+![](https://cdn1.savepice.ru/uploads/2020/10/25/2038874b8599c4589199b0a2466308a7-full.png)
+
 ### Требования
 
 
