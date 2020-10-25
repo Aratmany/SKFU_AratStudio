@@ -19,28 +19,28 @@
 ### Требования
 
 
-Серверная архитектура
-Linux
-ПО Вебсервера
-Apache
-Версия PHP
-7.4.10 (Поддерживает 64-битные значения)
-PHP SAPI
-apache2handler
-PHP max input variables
-1000
-PHP time limit (лимит времени исполнения скриптов)
-60
-PHP memory limit (лимит памяти для скриптов)
-1536M
-Max input time
--1
-Upload max filesize (максимальный размер загрузки)
-50M
-PHP post max size (максимальный размер POST-запроса)
-50M
-Версия cURL
-7.69.1 OpenSSL/1.1.1f
+-Серверная архитектура
+-Linux
+-ПО Вебсервера
+-Apache
+-Версия PHP
+-7.4.10 (Поддерживает 64-битные значения)
+-PHP SAPI
+-apache2handler
+-PHP max input variables
+-1000
+-PHP time limit (лимит времени исполнения скриптов)
+-60
+-PHP memory limit (лимит памяти для скриптов)
+-1536M
+-Max input time
+--1
+-Upload max filesize (максимальный размер загрузки)
+-50M
+-PHP post max size (максимальный размер POST-запроса)
+-50M
+-Версия cURL
+-7.69.1 OpenSSL/1.1.1f
 Установлен ли SUHOSIN?
 Нет
 Imagick библиотека доступна?
