@@ -19,50 +19,31 @@
 ### Требования
 
 
--Серверная архитектура
--Linux
--ПО Вебсервера
--Apache
--Версия PHP
--7.4.10 (Поддерживает 64-битные значения)
--PHP SAPI
--apache2handler
--PHP max input variables
--1000
--PHP time limit (лимит времени исполнения скриптов)
--60
--PHP memory limit (лимит памяти для скриптов)
--1536M
--Max input time
---1
--Upload max filesize (максимальный размер загрузки)
--50M
--PHP post max size (максимальный размер POST-запроса)
--50M
--Версия cURL
--7.69.1 OpenSSL/1.1.1f
-Установлен ли SUHOSIN?
-Нет
-Imagick библиотека доступна?
-Да
-Версия СУБД
-10.3.22-MariaDB
-Хост БД
-localhost
-Префикс таблиц БД
-skfu_
-Номер версии ImageMagick
-1799
-Строка версии ImageMagick
-ImageMagick 7.0.7-11 Q16 x64 2017-11-23 http://www.imagemagick.org
-Imagick лимиты ресурсов
-area: 4 ГБ
-disk: 1.844674407371E+19
-file: 1536
-map: 4 ГБ
-memory: 2 ГБ
-thread: 4
-Версия GD
-bundled (2.1.0 compatible)
-Версия Ghostscript
-9.52
+- Серверная архитектура - Linux
+- ПО Вебсервера - Apache
+- Item C
+- Версия PHP - 7.4.10 (Поддерживает 64-битные значения)
+- PHP SAPI - apache2handler
+- PHP max input variables - 1000
+- PHP time limit (лимит времени исполнения скриптов) - 60
+- PHP memory limit (лимит памяти для скриптов) - 1536M
+- Max input time - 1
+- Upload max filesize (максимальный размер загрузки) - 50M
+- PHP post max size (максимальный размер POST-запроса) - 50M
+- Версия cURL - 7.69.1 OpenSSL/1.1.1f
+- Установлен ли SUHOSIN? - Нет
+- Imagick библиотека доступна? - Да
+- Версия СУБД - 10.3.22-MariaDB
+- Хост БД -localhost
+- Префикс таблиц БД - skfu_
+- Номер версии ImageMagick - 1799
+- Строка версии ImageMagick - ImageMagick 7.0.7-11 Q16 x64 2017-11-23 http://www.imagemagick.org
+- Imagick лимиты ресурсов area: 4 ГБ
+- disk: 1.844674407371E+19
+- file: 1536
+ -map: 4 ГБ
+- memory: 2 ГБ
+- thread: 4
+- Версия GD - bundled (2.1.0 compatible)
+- Версия Ghostscript- 9.52
+
