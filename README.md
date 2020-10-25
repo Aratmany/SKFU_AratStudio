@@ -12,8 +12,10 @@
 ```
 ### Далее появится вот такое окно - это значит, что все соответствует минимальным требованиям
 ![](https://i.ibb.co/bKZ6xQY/Screenshot-12.png)
+ссылка скрина - https://i.ibb.co/bKZ6xQY/Screenshot-12.png
 ### Если все ок, откроется вот это окно, где указываете - название БД, логин, пароль
 ![](https://i.ibb.co/Lz2vpqr/Screenshot-13.png)
+ссылка скрина- https://i.ibb.co/Lz2vpqr/Screenshot-13.png
 ### Требования
 
 
